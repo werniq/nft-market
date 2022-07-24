@@ -4,9 +4,6 @@ import "./IERC721.sol";
 pragma solidity ^0.8.9;
 
 contract Market {
-    // 1 List of tokens
-    // 2 Buy tokens
-    // 3 Chatting
 
     enum ListingStatus {
         Active,
